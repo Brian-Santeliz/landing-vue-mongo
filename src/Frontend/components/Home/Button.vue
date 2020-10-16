@@ -1,5 +1,5 @@
 <template>
 <div class="d-flex justify-content-center mb-5">
-    <button class="btn btn-outline-primary">Ver Más</button>
+    <router-link class="btn btn-outline-primary" to="/services">Ver Más</router-link>
 </div>
 </template>

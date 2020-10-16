@@ -1,10 +1,10 @@
 <template>
 <div>
-    <div class="site-section bg-light" id="about-section">
-        <div class="container">
+    <div class="site-section bg-light">
+        <div class="container " >
             <div class="row mb-5">
-                <div class="col-12 text-center">
-                    <h2 class="section-title mb-3">About Us</h2>
+                <div class="col-12 text-center" style="margin-top:7rem;">
+                    <h2 class="section-title mb-3">¿Quienes Somos?</h2>
                 </div>
             </div>
             <div class="row mb-5">
@@ -12,14 +12,18 @@
                     <img src="../public/image/undraw_bookmarks_r6up.svg" alt="Image" class="img-fluid">
                 </div>
                 <div class="col-lg-5 ml-auto pl-lg-5">
-                    <h2 class="text-black mb-4 h3 font-weight-bold">Our Mission</h2>
-                    <p class="mb-4">Eos cumque optio dolores excepturi rerum temporibus magni recusandae eveniet, totam omnis consectetur maxime quibusdam expedita dolorem dolor nobis dicta labore quaerat esse magnam unde, aperiam delectus! At maiores, itaque.</p>
+                    <h2 class="text-black mb-4 h3 font-weight-bold">Nuestra Misión</h2>
+                    <p class="mb-4">En Evolution nuestro objetivo es ayudarte al crecimiento digital de tu marca, aprovechando todo el beneficio de las social networks. Para ello implementamos una serie de estrategias:</p>
                     <ul class="ul-check mb-5 list-unstyled success">
-                        <li>Laborum enim quasi at modi</li>
-                        <li>Ad at tempore</li>
-                        <li>Labore quaerat esse</li>
+                        <li>Inboud & Email Marketing</li>
+                        <li>Web Development</li>
+                        <li>Análisis de datos</li>
+                        <li>Diseño Grafico</li>
+                        <li>SEO/SEM</li>
                     </ul>
-                    <p><a href="#" class="btn btn-primary">Learn More</a></p>
+                    <p>
+                        <router-link to="/testimonials" class="btn btn-primary">Testimonios De Exitó</router-link>
+                    </p>
                 </div>
             </div>
 

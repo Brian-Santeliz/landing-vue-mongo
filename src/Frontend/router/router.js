@@ -18,6 +18,11 @@ const router = new Router({
       component: () => import("../pages/About.vue"),
       name: "About",
     },
+    {
+      path: "/testimonials",
+      component: () => import("../pages/Testimonials.vue"),
+      name: "Testimonials",
+    },
   ],
   mode: "history",
 });

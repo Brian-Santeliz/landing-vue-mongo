@@ -1,10 +1,10 @@
 <template>
-<div class="site-section" id="features-section">
+<div class="site-section">
     <div class="container">
         <div class="row mb-5 justify-content-center text-center" data-aos="fade-up">
-            <div class="col-7 text-center mb-5 mt-2">
-                <h2 class="section-title">Imagine Features</h2>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga quos quaerat sapiente nam, id vero.</p>
+            <div class="col-7 text-center mb-5 mt-5">
+                <h2 class="section-title">Los Mejores Servicios</h2>
+                <p class="lead">Tenemos una amplia experiencia en entornos digitales. Evoluciona tu marca con nuestras habilidades.</p>
             </div>
         </div>
         <div class="row align-items-stretch">
@@ -15,8 +15,8 @@
                         <span class="icon-wrap"><span class="text-primary icon-autorenew"></span></span>
                     </div>
                     <div>
-                        <h3>Marketing Consulting</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                        <h3>Expertos en Marketing</h3>
+                        <p>Asesorate con expertos en el área del marketing sobre tu marca, identidad digital y como aumentar tus ventas.</p>
                     </div>
                 </div>
 
@@ -28,8 +28,8 @@
                         <span class="icon-wrap"><span class="text-primary icon-store_mall_directory"></span></span>
                     </div>
                     <div>
-                        <h3>Market Analysis</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                        <h3>Análisis del Mercado</h3>
+                        <p>El mercado cambia constantemente, estudiamos las mejores estrategias  para llevarte al primer lugar.</p>
                     </div>
                 </div>
             </div>
@@ -39,8 +39,8 @@
                         <span class="icon-wrap"><span class="text-primary icon-shopping_basket"></span></span>
                     </div>
                     <div>
-                        <h3>Easy Purchase</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                        <h3>Seo Optimizado</h3>
+                        <p>Posicionamos tu emprendimiento en los primeros resultados de los buscadores y redes sociales.</p>
                     </div>
                 </div>
             </div>

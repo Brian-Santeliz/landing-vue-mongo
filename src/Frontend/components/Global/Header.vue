@@ -2,7 +2,7 @@
 <div>
     <nav class="site-navbar navbar navbar-expand-lg navbar-light p-3 mb-5">
         <div class="container" style="display:flex; justify-content:space-between">
-            <a class="navbar-brand" href="#">Evolution</a>
+            <router-link class="navbar-brand" to="/">Evolution</router-link>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -11,7 +11,7 @@
                     <router-link class="nav-link active" to="/">Inicio<span class="sr-only">(current)</span></router-link>
                     <router-link class="nav-link" to="/services">Servicios</router-link>
                     <router-link class="nav-link" to="/about">Acerca</router-link>
-                    <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Contacto</a>
+                    <router-link class="nav-link" to="/testimonials" tabindex="-1" aria-disabled="true">Testimonios</router-link>
                 </div>
             </div>
         </div>
