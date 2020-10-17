@@ -14,7 +14,7 @@
                     </router-link>
                     <router-link class="nav-link router" to="/services">Servicios</router-link>
                     <router-link class="nav-link router" to="/about">Acerca</router-link>
-                    <router-link class="nav-link router" to="/testimonials" tabindex="-1" aria-disabled="true">Testimonios</router-link>
+                    <router-link class="nav-link router" to="/404" tabindex="-1" aria-disabled="true">Testimonios</router-link>
                 </div>
             </div>
         </div>

@@ -480,8 +480,8 @@ router:focus{
   border-radius: 50%;
 }
 
-.breadcrumb-custom {
-  font-size: 1rem !important;
+.image-404{
+  max-width:35em !important;
 }
 
 .text-muted {

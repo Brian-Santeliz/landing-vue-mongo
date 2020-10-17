@@ -1,14 +1,14 @@
 <template>
 <div>
-    <TestimonialsSection />
+    <TestimonialSection />
 </div>
 </template>
 
 <script>
-import TestimonialsSection from '../components/Testimonials/TestimonialsSection.vue'
+import TestimonialSection from '../components/Testimonials/TestimonialsSection.vue'
 export default {
     components: {
-        TestimonialsSection
+        TestimonialSection
     }
 }
 </script>
