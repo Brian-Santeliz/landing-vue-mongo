@@ -1,7 +1,7 @@
-const { VueLoaderPlugin } = require("vue-loader");
+const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
-const path = require("path");
+const { VueLoaderPlugin } = require("vue-loader");
 
 module.exports = {
   entry: "./src/Frontend/App.js",

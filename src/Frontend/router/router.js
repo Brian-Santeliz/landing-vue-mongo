@@ -23,6 +23,15 @@ const router = new Router({
       component: () => import("../pages/Testimonials.vue"),
       name: "Testimonials",
     },
+    {
+      path: "/404",
+      component: () => import("../pages/NotFound.vue"),
+      name: "404",
+    },
+    {
+      path: "*",
+      redirect: "/404",
+    },
   ],
   mode: "history",
 });
